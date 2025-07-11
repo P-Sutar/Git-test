@@ -6,6 +6,6 @@ ncbchc'bscheck "ssscheck "dfssscheck "name" {
 }
   
 }" {
-  name = "example"
+  name = "exampds"
   value = "example_value"
 }
