@@ -9,8 +9,19 @@ ncbchc'bscheck "ssscheck "dfssscheck "name" {
   value = "exagti"
 }
 
+
 # PS D:\DevOps_Insider_Training\Terraform_codes\New folder\Git-test> git checkout -b feature/jd-001
 # Switched to a new branch 'feature/jd-001'
 # PS D:\DevOps_Insider_Training\Terraform_codes\New folder\Git-test> git branch
 # * feature/jd-001
 #   main
+
+terraform {
+  {require_provider=
+ {provider= /harshicorp/azurerm
+ veriosn=1.3.4
+ }
+
+}
+}
+
